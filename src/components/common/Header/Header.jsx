@@ -7,7 +7,6 @@ function Header() {
       <HeaderLogo href="/">
         <img src={Logo} alt="" />
       </HeaderLogo>
-      шапка
     </HeaderWrapper>
   )
 }
