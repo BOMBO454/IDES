@@ -1,4 +1,3 @@
-import { Formik } from 'formik'
 import Layout from '../../components/common/Layout/Layout'
 import { HomeWrapper } from './styled'
 import InputField from '../../components/ui/InputField/InputField'
