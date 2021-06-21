@@ -19,6 +19,10 @@ export const InputWrapper = styled.div`
       border-radius: 4px;
       box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%);
       transition: ${TRANSITION_FAST};
+      line-height: 30px;
+      background-color: white;
+      -webkit-appearance: none;
+      -moz-appearance: none;
       &:focus{
         outline: 0;
         border-color: #2a8dd4;
