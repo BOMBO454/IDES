@@ -7,10 +7,12 @@ export const FooterWrapper = styled.footer`
   padding: 15px;
   border-top: 2px solid #1e4498;
   border-bottom: 2px solid #1e4498;
+  margin-bottom: 30px;
 `
 export const FooterContainer = styled.div`
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
 `
 
 export const FooterList = styled.ul`
